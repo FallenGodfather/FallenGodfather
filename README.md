@@ -1,4 +1,4 @@
-# Hi there, I'm Hassan Ali Jadavjee 👋
+# Hi there, I'm Hassan👋
 
 <div align="center">
 
