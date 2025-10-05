@@ -119,6 +119,7 @@ class HassanAliJadavjee:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenGodfather&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FallenGodfather&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=FallenGodfather&hide_border=true)
 
 </div>
 
