@@ -114,12 +114,9 @@ class HassanAliJadavjee:
 
 <div align="center">
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=FallenGodfather&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenGodfather&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FallenGodfather&theme=radical&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=FallenGodfather&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=FallenGodfather&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FallenGodfather&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FallenGodfather&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
