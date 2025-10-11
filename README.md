@@ -19,7 +19,6 @@
 🌍 **International Student** - Navigating challenges while pursuing dreams in tech  
 
 ---
-![Fallen God Father Rocket](https://user-gen-media-assets.s3.amazonaws.com/seedance_videos/24708754-d837-4575-add9-43cdd2894658.mp4)
 
 ## 🎮 My Tech Journey - From Gaming to AI
 
