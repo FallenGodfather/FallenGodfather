@@ -1,4 +1,4 @@
-# Hi there, I'm Hassan Ali aka FallenGodfather👋
+# Hi there, I'm Hassan Ali (FallenGodfather)👋
 
 <div align="center">
 
