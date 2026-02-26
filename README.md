@@ -1,4 +1,4 @@
-# Hi there I'm Hassan Ali (FallenGodfather)👋
+# Hi there I'm Hassan Ali (FallenGodfather) aka Leandros👋
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 ---
 
-# Hi, I'm YOUR_NAME 👋
+## About Me
 
 Cybersecurity Penetration Tester focused on ethical hacking, network exploitation, and vulnerability assessment.  
 Studying Cybersecurity at BTU Cottbus (Germany), preparing for CPTS, and actively completing Hack The Box active machines.
@@ -54,17 +54,15 @@ I enjoy hands-on offensive security work across web, network, and Linux/Windows 
 - Actively completing: Active Machines
 - Learning track: HTB Academy Penetration Tester Job Path
 
-Links:
-- HTB Profile: https://app.hackthebox.com/users/YOUR_HTB_ID_OR_USERNAME
-- HTB Academy: https://academy.hackthebox.com/
+## Links
+- HTB Profile: https://app.hackthebox.com/users/Leandros
+- My Website: https://h4cker-hub.tech 
 
 ## Projects
 A few things you’ll find here (or that I’m actively building):
 - Pentest helper scripts (enumeration, parsing, report notes automation)
 - Small security tools in Python (HTTP testing, subdomain checks, wordlist helpers)
 - Lab notes and learning resources (sanitized, no active-machine spoilers)
-
-If you’re a recruiter: I’m happy to walk through methodology, tradeoffs, and how I approach reporting and remediation.
 
 ## Write-ups policy
 I don’t publish solutions for HTB Active Machines. For retired content, I may share high-level learning notes or sanitized write-ups focused on techniques, not spoilers.
