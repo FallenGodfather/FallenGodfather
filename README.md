@@ -63,7 +63,7 @@ A few things you’ll find here (or that I’m actively building):
 - Lab notes and learning resources (sanitized, no active-machine spoilers)
 
 ## Write-ups policy
-I don’t publish solutions for HTB Active Machines. For retired content, I may share high-level learning notes or sanitized write-ups focused on techniques, not spoilers.
+I have plans to post writeups on my website soon, I don’t publish solutions for HTB Active Machines. For retired content, I may share high-level learning notes or sanitized write-ups focused on techniques, not spoilers.
 
 ## Goals for 2026
 - Earn CPTS
@@ -72,8 +72,8 @@ I don’t publish solutions for HTB Active Machines. For retired content, I may 
 - Build a strong portfolio with clear methodology and measurable progress
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/HassanAliJadavjee  
+- Email: hassanalijadavjee.work@gmail.com
 - Location: Cottbus, Brandenburg, DE
 
 ---
