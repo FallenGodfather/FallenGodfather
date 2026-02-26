@@ -1,4 +1,4 @@
-# Hi there I'm Hassan Ali (FallenGodfather) aka Leandros👋
+# Hi there I'm Hassan Ali (FallenGodfather) aka Leandros
 
 <div align="center">
 
@@ -13,11 +13,11 @@ Cybersecurity Penetration Tester focused on ethical hacking, network exploitatio
 Studying Cybersecurity at BTU Cottbus (Germany), preparing for CPTS, and actively completing Hack The Box active machines.
 
 ## Quick highlights
-- 🎓 Cybersecurity student at **BTU Cottbus (Germany)**
-- 📚 Preparing for **CPTS (Certified Penetration Testing Specialist)**
-- 🧠 Enrolled in **HTB Academy – Penetration Tester Job Path**
-- 🚩 Active on **Hack The Box** (Active Machines) — **Pro Hacker rank** on HTB Labs
-- 🛠️ Building pentesting tooling + documenting practical learning
+- Cybersecurity student at **BTU Cottbus (Germany)**
+- Preparing for **CPTS (Certified Penetration Testing Specialist)**
+- Enrolled in **HTB Academy – Penetration Tester Job Path**
+- Active on **Hack The Box** (Active Machines) — **Pro Hacker rank** on HTB Labs
+- Building pentesting tooling + documenting practical learning
 
 ## What I do
 I enjoy hands-on offensive security work across web, network, and Linux/Windows environments. I like turning reconnaissance into clear attack paths, then translating findings into actionable remediation advice.
