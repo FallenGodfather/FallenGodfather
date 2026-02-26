@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## About Me
 
 Cybersecurity Penetration Tester focused on ethical hacking, network exploitation, and vulnerability assessment.  
