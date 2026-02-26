@@ -53,7 +53,7 @@ I enjoy hands-on offensive security work across web, network, and Linux/Windows 
 - Learning track: HTB Academy Penetration Tester Job Path
 
 ## Links
-- HTB Profile: https://app.hackthebox.com/users/248307
+- HTB Profile: https://app.hackthebox.com/public/users/248307
 - My Website: https://h4cker-hub.tech 
 
 ## Projects
