@@ -109,8 +109,6 @@ _**Badges (Click on the badges to verify and see more details):**_
 </td>
   </tr>
 </table>
-**Languages**
-- Python, Bash (plus basic PowerShell when needed)
 
 ## Certifications
 - CPTS (HTB) — In progress
