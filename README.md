@@ -40,28 +40,28 @@ _**Badges (Click on the badges to verify and see more details):**_
   <tr>
 <td align="center">
 <a><img src='htb-img/your-first-battle.webp' width='150'></a>
-      <p><strong>Crawl, walk, run</strong></p>
-      <p>For completing the Windows Fundamentals module</p>
+      <p><strong>Your First Battle</strong></p>
+      <p>Getting Started module completed</p>
 </td>
 <td align="center">
 <a><img src='htb-img/the-eye-that-sees-all.webp' width='150'></a>
-      <p><strong>Dive into requests</strong></p>
-      <p>For completing the Using Web Proxies module</p>
+      <p><strong>The eye that sees all</strong></p>
+      <p>Network Enumeration with Nmap module completed</p>
 </td>
 <td align="center">
 <a><img src='htb-img/airborne-delivery.webp' width='150'></a>
-      <p><strong>Everything is connected</strong></p>
-      <p>For completing the Introduction to Networking module</p>
+      <p><strong>Airborne delivery</strong></p>
+      <p>File Transfers module completed</p>
 </td>
     <td align="center">
 <a><img src='htb-img/combine-the-modules.webp' width='150'></a>
-      <p><strong>First things first</strong></p>
-      <p>For completing the Operating System Fundamentals path</p>
+      <p><strong>Combine the Modules</strong></p>
+      <p>Using the Metasploit Framework module completed</p>
 </td>
     <td align="center">
 <a><img src='htb-img/ghost-in-the-shell.webp' width='150'></a>
-      <p><strong>Fuzzing is power</strong></p>
-      <p>For completing the Attacking Web Applications with Ffuf module</p>
+      <p><strong>Ghost in the shell</strong></p>
+      <p>Shells & Payloads module completed</p>
 </td>
   </tr>
   <tr>
@@ -72,30 +72,30 @@ _**Badges (Click on the badges to verify and see more details):**_
 </td>
 <td align="center">
 <a><img src='htb-img/grab-the-keys-and-move-laterally.webp' width='150'></a>
-      <p><strong>Our favorite seabird</strong></p>
-      <p>For completing the Linux Fundamentals module</p>
+      <p><strong>Grab the keys and move laterally</strong></p>
+      <p>Password Attacks module completed</p>
 </td>
 <td align="center">
 <a><img src='htb-img/light-in-the-dark.webp' width='150'></a>
-      <p><strong>Philomath</strong></p>
-      <p>For completing the Learning Process module</p>
+      <p><strong>Light in the Dark</strong></p>
+      <p>Vulnerability Assessment module completed</p>
 </td>
     <td align="center">
 <a><img src='htb-img/tactical.webp' width='150'></a>
-      <p><strong>Playing with the mess</strong></p>
-      <p>For completing the JavaScript Deobfuscation module</p>
+      <p><strong>Tactical</strong></p>
+      <p>Penetration Testing Process module completed</p>
 </td>
     <td align="center">
 <a><img src='htb-img/you-need-to-trace-before-you-can-hung.webp' width='150'></a>
-      <p><strong>Your request is my demand</strong></p>
-      <p>For completing the Web Requests module</p>
+      <p><strong>You need to trace before you can hunt</strong></p>
+      <p>Footprinting module completed</p>
 </td>
   </tr>
     <tr>
 <td align="center">
 <a><img src='htb-img/academician.webp' width='150'></a>
-      <p><strong>Developer</strong></p>
-      <p>For completing the Introduction to Web Applications module</p>
+      <p><strong>Academician</strong></p>
+      <p>Introduction to Academy module completed</p>
   </tr>
 </table>
 
