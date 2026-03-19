@@ -15,7 +15,6 @@ Studying Cybersecurity at BTU Cottbus (Germany), preparing for CPTS, and activel
 ## Quick highlights
 - Cybersecurity student at **BTU Cottbus (Germany)**
 - Preparing for **CPTS (Certified Penetration Testing Specialist)**
-- Active on **Hack The Box** (Active Machines) — **Pro Hacker rank** on HTB Labs
 - Building pentesting tooling + documenting practical learning
 
 ## What I do
