@@ -144,8 +144,8 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FallenGodfather&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FallenGodfather&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FallenGodfather&show_icons=true&theme=tokyonight&hide_border=true&title_color=b026ff&icon_color=b026ff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenGodfather&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=b026ff" alt="Top Languages" width="48%" />
 </div>
 
 ---
