@@ -65,8 +65,7 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
 - ⏳ **CPTS (HTB)** — *In progress*
 
 **Hack The Box Stats:**
-- 🎖️ **Rank:** Pro Hacker (HTB Labs)
-- 🕹️ **Activity:** Actively completing Active Machines
+- 🕹️ **Activity:** Actively completing Active Machines, ProLabs, Challenges & Fortress
 - 🛤️ **Track:** HTB Academy Penetration Tester Job Path
 
 <details>
@@ -80,50 +79,61 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
       <td align="center">
         <a><img src='htb-img/your-first-battle.webp' width='120'></a>
         <p><strong>Your First Battle</strong></p>
+        <p>Getting Started module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/the-eye-that-sees-all.webp' width='120'></a>
         <p><strong>The eye that sees all</strong></p>
+        <p>Network Enumeration with Nmap module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/airborne-delivery.webp' width='120'></a>
         <p><strong>Airborne delivery</strong></p>
+        <p>File Transfers module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/combine-the-modules.webp' width='120'></a>
         <p><strong>Combine the Modules</strong></p>
+        <p>Using the Metasploit Framework module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/ghost-in-the-shell.webp' width='120'></a>
         <p><strong>Ghost in the shell</strong></p>
+        <p>Shells & Payloads module completed</p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a><img src='htb-img/information-is-not-knowledge-or-is-it.webp' width='120'></a>
-        <p><strong>Info is not knowledge</strong></p>
+        <p><strong>Information is not knowledge, or is it?</strong></p>
+        <p>For completing the Information Gathering - Web Edition module</p>
       </td>
       <td align="center">
         <a><img src='htb-img/grab-the-keys-and-move-laterally.webp' width='120'></a>
-        <p><strong>Grab the keys...</strong></p>
+        <p><strong>Grab the keys and move laterally</strong></p>
+        <p>Password Attacks module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/light-in-the-dark.webp' width='120'></a>
         <p><strong>Light in the Dark</strong></p>
+        <p>Vulnerability Assessment module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/tactical.webp' width='120'></a>
         <p><strong>Tactical</strong></p>
+        <p>Penetration Testing Process module completed</p>
       </td>
       <td align="center">
         <a><img src='htb-img/you-need-to-trace-before-you-can-hung.webp' width='120'></a>
-        <p><strong>Trace before you hunt</strong></p>
+        <p><strong>You need to trace before you can hunt</strong></p>
+        <p>Footprinting module completed</p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a><img src='htb-img/academician.webp' width='120'></a>
         <p><strong>Academician</strong></p>
+        <p>Introduction to Academy module completed</p>
       </td>
     </tr>
   </table>
@@ -150,11 +160,13 @@ I am actively building out lab notes, sanitized learning resources, and open-sou
 
 ## 🎯 2026 Objectives
 - [ ] Earn the **CPTS** certification.
+- [ ] Earn the **CAPS** certification.
+- [ ] Earn the **CWES** certification.
 - [ ] Deepen knowledge in Advanced Web & Active Directory pentesting.
 - [ ] Ship polished open-source tooling and offensive security documentation.
 - [ ] Build a strong portfolio highlighting clear methodology and measurable progress.
 
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=violetblue&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blueviolet&height=100&section=footer" width="100%"/>
 </div>
