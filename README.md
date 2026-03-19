@@ -18,7 +18,7 @@
 
   [![Website](https://img.shields.io/badge/Website-h4cker--hub.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://h4cker-hub.tech)
   [![HTB](https://img.shields.io/badge/HackTheBox-Profile-9fef00?style=for-the-badge&logo=hackthebox&logoColor=1b1e23)](https://app.hackthebox.com/public/users/248307)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/HassanAliJadavjee)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-ali-jadavjee/)
   [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanalijadavjee.work@gmail.com)
 </div>
 
