@@ -135,6 +135,11 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
         <p><strong>Academician</strong></p>
         <p>Introduction to Academy module completed</p>
       </td>
+      <td align="center">
+        <a><img src='htb-img/scan-and-execute.webp' width='120'></a>
+        <p><strong>Scan and execute</strong></p>
+        <p>For completing Attacking Common Services module</p>
+      </td>
     </tr>
   </table>
 </details>
