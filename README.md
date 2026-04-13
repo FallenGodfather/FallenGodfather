@@ -75,13 +75,12 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
         <p><strong>Ghost in the shell</strong></p>
         <p>Shells & Payloads module completed</p>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+       <td align="center">
         <a><img src='htb-img/information-is-not-knowledge-or-is-it.webp' width='120'></a>
         <p><strong>Information is not knowledge, or is it?</strong></p>
         <p>For completing the Information Gathering - Web Edition module</p>
       </td>
+    </tr>
   </table>
 
 **Hack The Box Stats:**
