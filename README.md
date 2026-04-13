@@ -66,19 +66,48 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
 <table>
     <tr>
       <td align="center">
-        <a><img src='htb-img/combine-the-modules.webp' width='120'></a>
-        <p><strong>Combine the Modules</strong></p>
-        <p>Using the Metasploit Framework module completed</p>
+        <a><img src='htb-img/CPTS-htb.png' width='120'></a>
+        <p><strong>CPTS</strong></p>
+        <p>Certified Penetration Testing Specialist</p>
+        <p><i>On-going</i></p>
       </td>
       <td align="center">
-        <a><img src='htb-img/ghost-in-the-shell.webp' width='120'></a>
-        <p><strong>Ghost in the shell</strong></p>
-        <p>Shells & Payloads module completed</p>
+        <a><img src='htb-img/CWES-htb.png' width='120'></a>
+        <p><strong>CWES</strong></p>
+        <p>Certified Web Exploitation Specialist</p>
+        <p><i>On-going</i></p>
       </td>
        <td align="center">
-        <a><img src='htb-img/information-is-not-knowledge-or-is-it.webp' width='120'></a>
-        <p><strong>Information is not knowledge, or is it?</strong></p>
-        <p>For completing the Information Gathering - Web Edition module</p>
+        <a><img src='htb-img/CAPS-htb.png' width='120'></a>
+        <p><strong>CAPE</strong></p>
+        <p>Certified Active Directory Penetration Testing Expert</p>
+        <p><i>On-going</i></p>
+      </td>
+       <td align="center">
+        <a><img src='htb-img/CWEE-htb.png' width='120'></a>
+        <p><strong>CWEE</strong></p>
+        <p>Certified Web Exploitation Expert</p>
+        <p><i>On-going</i></p>
+      </td>
+    </tr>
+    <tr>
+       <td align="center">
+        <a><img src='htb-img/CWPS-htb.png' width='120'></a>
+        <p><strong>CWPS</strong></p>
+        <p>Certified Wifi Penetration Testing Specialist</p>
+         <p><i>On-going</i></p>
+      </td>
+      <td align="center">
+        <a><img src='htb-img/CJCA-htb.png' width='120'></a>
+        <p><strong>CJCA</strong></p>
+        <p>Certified Junior Cybersecurity Associate</p>
+        <p><i>On-going</i></p>
+      </td>
+      <td align="center">
+        <a><img src='htb-img/CDSA-htb.png' width='120'></a>
+        <p><strong>CDSA</strong></p>
+        <p>Certified Defensive Security Analyst</p>
+        <p><i>On-going</i></p>
       </td>
     </tr>
   </table>
