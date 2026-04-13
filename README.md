@@ -62,7 +62,27 @@ I am a Cybersecurity Penetration Tester focused on ethical hacking, network expl
 ## 🏆 Hack The Box & Certifications
 
 **Certifications:**
-- ⏳ **CPTS (HTB)** — *In progress*
+
+<table>
+    <tr>
+      <td align="center">
+        <a><img src='htb-img/combine-the-modules.webp' width='120'></a>
+        <p><strong>Combine the Modules</strong></p>
+        <p>Using the Metasploit Framework module completed</p>
+      </td>
+      <td align="center">
+        <a><img src='htb-img/ghost-in-the-shell.webp' width='120'></a>
+        <p><strong>Ghost in the shell</strong></p>
+        <p>Shells & Payloads module completed</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a><img src='htb-img/information-is-not-knowledge-or-is-it.webp' width='120'></a>
+        <p><strong>Information is not knowledge, or is it?</strong></p>
+        <p>For completing the Information Gathering - Web Edition module</p>
+      </td>
+  </table>
 
 **Hack The Box Stats:**
 - 🕹️ **Activity:** Actively completing Active Machines, ProLabs, Challenges & Fortress
