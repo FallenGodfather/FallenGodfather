@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ⚡ Hi there, I'm Hassan Ali (FallenGodfather) aka Leandros
+  # ⚡ Hi there, I am Leandros
   ### 🛡️ Cybersecurity Penetration Tester | 🎓 BTU Cottbus Student | 🎯 CPTS Candidate
   
   <p align="center">
